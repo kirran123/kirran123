@@ -13,8 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirran-s-t-694031291/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7AA2F7?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://kirran123.github.io/Portfolio/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kirran123&label=Profile%20Views&color=7AA2F7&style=flat-square)
-
 </div>
 
 ---
