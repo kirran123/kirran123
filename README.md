@@ -1,16 +1,142 @@
-## Hi there 👋
+# Hey, I'm Kirran S T 👋
 
-<!--
-**kirran123/kirran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+💻 Building practical web applications · 🔐 Exploring cybersecurity · 🚀 Learning by building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a B.Tech Information Technology student passionate about developing full-stack applications, solving real-world problems, and exploring cybersecurity. I enjoy turning ideas into working products using modern web technologies and continuously improving my technical skills.
+
+- 🔭 **Currently focused on:** Full Stack Development and cybersecurity
+- 💻 **Tech stack:** React.js, Node.js, Express.js, MongoDB, MySQL
+- 🔐 **Security interests:** CTF challenges, ethical hacking, and digital forensics
+- 🌱 **Always learning:** Better software design, problem-solving, and secure coding
+- 🎯 **Goal:** Build useful, scalable, and secure applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript and React" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL" />
+</p>
+
+### Programming & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode" alt="C, Java, Git, GitHub and VS Code" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. STK Cable Management System
+A web-based project focused on cable management workflows and operational data.
+
+- **Tech:** JavaScript, web technologies, backend integration
+- **Repository:** [STK Cable Management](https://github.com/kirran123/stk-cable-management)
+- **Backend:** [STK Cable Backend](https://github.com/kirran123/stk-cable-backend)
+
+### 2. CGPA Calculator
+An academic utility designed to calculate student CGPA based on university grading rules.
+
+- **Tech:** Web development, academic data processing
+- **Repository:** [CGPA Project](https://github.com/kirran123/CGPA) *(verify repository URL and visibility)*
+
+### 3. Certificate Generation System
+A web application project for automating certificate generation.
+
+- **Tech:** Web development, backend integration
+- **Repository:** [Certificate Generation](https://github.com/kirran123/Certificate-Generation)
+
+### 4. Student Result Management System
+A project developed during my web development internship to manage student result information.
+
+- **Tech:** HTML, CSS, JavaScript, backend development
+- **Repository:** [[Add the project repository link here](https://github.com/kirran123/Student-Result-Management-System-in-angular.git)]
+
+### 5. Crop-and-Shop
+A project exploring digital interaction between farmers, agricultural products, and customers.
+
+- **Tech:** React, Firebase/MongoDB integration *(confirm the final stack)*
+- **Live demo:** [[Add verified deployment URL here](https://crop-and-shop.vercel.app/)]
+- **Repository:** [[Add verified repository URL here](https://github.com/kirran123/Crop-and-Shop.git)]
+
+---
+
+## 🔐 Cybersecurity & Technical Interests
+
+- Capture The Flag (CTF) challenges
+- Ethical hacking and web application security
+- Digital forensics
+- Secure software development
+- Problem-solving and coding competitions
+
+I believe that building software and understanding how to secure it go hand in hand.
+
+---
+
+## 🏆 Achievements & Experience
+
+- 🥉 Secured a **Top 3 position** in a coding competition.
+- 🏆 Achieved **1st place in a hackathon** associated with a Digital Forensics and Cybersecurity workshop.
+- 🔍 Participated in CTF challenges and technical competitions.
+- 💼 Completed a web development internship at **LOGIN TechBridge**.
+- 📚 Participated in technical workshops and developer learning events.
+
+*Please verify event names, dates, certificates, and competition details before publishing.*
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirran123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for kirran123" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirran123&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for kirran123" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirran123&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages for kirran123" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirran123&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph for kirran123" />
+</p>
+
+*Statistics and cards are generated by external services. They may take time to load, may be temporarily unavailable, and do not necessarily represent code quality or total programming experience.*
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/kirran123">
+    <img src="https://img.shields.io/badge/GitHub-kirran123-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <!-- Replace the placeholder below with your verified LinkedIn URL -->
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/kirran-s-t-694031291/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+  </a>
+  <!-- Replace the placeholder below with your portfolio URL -->
+  <a href="[YOUR_PORTFOLIO_URL](https://kirran123.github.io/Portfolio/)">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2F80ED?style=for-the-badge&logo=firefox" alt="Portfolio website" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Build. Learn. Secure. Repeat.</b>
+  <br/>
+  ⭐ Thanks for visiting my profile!
+</p>
